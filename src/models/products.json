@@ -1,0 +1,102 @@
+[
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "prince": 4500,
+    "thumbnail": "image1",
+    "code": "code111",
+    "stock": 5,
+    "id": "0",
+    "status": true
+  },
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "prince": 4500,
+    "thumbnail": "image1",
+    "code": "code111",
+    "stock": 5,
+    "id": "L",
+    "status": true
+  },
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "prince": 4500,
+    "thumbnail": "image1",
+    "code": "code111",
+    "stock": 5,
+    "id": "Q",
+    "status": true
+  },
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "prince": 4500,
+    "thumbnail": "image1",
+    "code": "code111",
+    "stock": 5,
+    "id": "T",
+    "status": true
+  },
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "prince": 4500,
+    "thumbnail": "image1",
+    "code": "code111",
+    "stock": 5,
+    "id": "1",
+    "status": true
+  },
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "prince": 4500,
+    "thumbnail": "image25",
+    "code": "code111",
+    "stock": 5,
+    "status": true,
+    "id": "N"
+  },
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "prince": 4500,
+    "thumbnail": "image25",
+    "code": "code111",
+    "stock": 8,
+    "status": true,
+    "id": "H"
+  },
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "prince": 4500,
+    "thumbnail": "image25",
+    "code": "code111",
+    "stock": 8,
+    "status": true,
+    "id": "6"
+  },
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "prince": 4500,
+    "thumbnail": "image25",
+    "code": "code111",
+    "stock": 8,
+    "status": true,
+    "id": "P"
+  },
+  {
+    "title": "T-Shirt",
+    "description": "Vans",
+    "prince": 4500,
+    "thumbnail": "image25",
+    "code": "code111",
+    "stock": 8,
+    "status": true,
+    "id": "2"
+  }
+]
