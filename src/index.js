@@ -8,8 +8,8 @@ app.use(express.urlencoded({ extended: true}));
 
 // Rutas
 
-app.use("/" , productRouter);
-app.use("/cart" , cartRouter);
+app.use("/api/products" , productRouter);
+app.use("/api/cart" , cartRouter);
 
 // creo el Puerto
 

@@ -8,8 +8,6 @@ export default class ProductManager {
     this.products = [] ;
     }
 
-    static id = 0 ; 
-
     readProducts = async () => {
         let respuesta = await fs.readFile(this.path , "utf-8");
         return JSON.parse(respuesta);
